@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - Cloud System and Arch. 
 - Infrastructure
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balabeltmimi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balabeltmimi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

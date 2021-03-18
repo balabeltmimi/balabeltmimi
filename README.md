@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 I’m currently learning
+### 🧑‍💻 Currently work on
+- Dart
 - Jenkins
+- AWS
+- Docker
+
+### 🎯 Currently focus on
+- Dart
+- Jenkins
+- AWS
+- Cloud System and Arch. 
+- Infrastructure
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balabeltmimi)](https://github.com/anuraghazra/github-readme-stats)

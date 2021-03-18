@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### Welcome to Beltbelt's area ❄️
 
+<img src='https://tenor.com/view/klee-genshin-impact-genshin-happy-explosion-gif-18874661' />
+
 <!--
 **balabeltmimi/balabeltmimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

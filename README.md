@@ -25,14 +25,15 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balabeltmimi&show_icons=true&locale=en" alt="balabeltmimi" /></p>
 
 ### 🧑‍💻 Currently work on
-- Dart
-- Jenkins
 - AWS
 - Docker
+- K8S
 
 ### 🎯 Currently focus on
 - Dart
-- Jenkins
+- Kotlin
+- K8S
 - AWS
+- Java
 - Cloud System and Arch. 
 - Infrastructure

@@ -1,7 +1,7 @@
 ### Welcome to Beltbelt's area ❄️
 
-<p><img align="left" src='https://media1.tenor.com/images/4c83fb1dc973dcb3665d44d22a89e59e/tenor.gif?itemid=18874661' />
-<p><img align="right" src='https://tenor.com/view/kaedehara-kazuha-kazuha-gif-22275696' />
+<p><img align="left" src='https://media1.tenor.com/images/4c83fb1dc973dcb3665d44d22a89e59e/tenor.gif?itemid=18874661' /></p>
+<p><img align="right" src='https://media1.tenor.com/images/a9ffafb45bf12ba55db97b7e5cde2c51/tenor.gif?itemid=22275696' /></p>
 
 
 

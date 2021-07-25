@@ -1,6 +1,9 @@
 ### Welcome to Beltbelt's area ❄️
 
-<p><img align="left" src='https://media1.tenor.com/images/4c83fb1dc973dcb3665d44d22a89e59e/tenor.gif?itemid=18874661' /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balabeltmimi&show_icons=true&locale=en&layout=compact" alt="balabeltmimi" /></p>
+<p><img align="left" src='https://media1.tenor.com/images/4c83fb1dc973dcb3665d44d22a89e59e/tenor.gif?itemid=18874661' /></p> 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balabeltmimi&show_icons=true&locale=en&layout=compact" alt="balabeltmimi" /></p>
 
 
 

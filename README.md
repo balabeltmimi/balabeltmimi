@@ -1,6 +1,9 @@
 ### Welcome to Beltbelt's area ❄️
 
-<img src='https://media1.tenor.com/images/4c83fb1dc973dcb3665d44d22a89e59e/tenor.gif?itemid=18874661' />
+<p><img align="left" src='https://media1.tenor.com/images/4c83fb1dc973dcb3665d44d22a89e59e/tenor.gif?itemid=18874661' />
+<p><img align="right" src='https://tenor.com/view/kaedehara-kazuha-kazuha-gif-22275696' />
+
+
 
 <!--
 **balabeltmimi/balabeltmimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
